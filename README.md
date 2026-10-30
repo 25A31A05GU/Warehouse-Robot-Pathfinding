@@ -293,7 +293,7 @@ This project is distributed under the MIT License. See the ""LICENSE"" (LICENSE)
 
 # Charvisri sri
 
-- GitHub: "@25A31A05GU" (https://github.com/25A31A05GU)
+- GitHub: "@25A31A05GU" (https://github.com/charvisri04-creator/Warehouse-Robot-Pathfinding)
 - Live Project: "Warehouse Robot Pathfinding Simulator" (https://ware-house-robot-path-finding.vercel.app/)
 
 ---
